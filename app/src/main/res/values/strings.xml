@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WorkTalk</string>
+    <string name="login_goRegister_text_text">没有帐号吗？点这里试试看 》》》</string>
+    <string name="register_username_text_text">用户名：</string>
+    <string name="register_password_text_text">密码：</string>
+    <string name="register_passwordAgain_text_text">重复一次密码：</string>
+    <string name="register_register_btn_text">注册</string>
 </resources>
