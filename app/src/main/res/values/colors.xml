@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="link_green">#008577</color>
     <color name="register_tip_color">#008577</color>
+    <color name="login_tip_color">#008577</color>
 </resources>

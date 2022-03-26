@@ -9,4 +9,11 @@
     <string name="register_passwordNotEqual">输入两个不同的密码</string>
     <string name="register_unKnownError">注册过程中发生了一个未知的错误</string>
     <string name="register_registerSuccess">注册成功！请前往登录界面登录</string>
+    <string name="login_login_btn_text">登录</string>
+    <string name="login_tip_text_text">登录WorkTalk</string>
+    <string name="login_save_check_text">记住我</string>
+    <string name="login_username_text_text">用户名：</string>
+    <string name="login_password_text_text">密码：</string>
+    <string name="login_unKnownError">登录过程中发生了一个未知的错误</string>
+    <string name="login_loginSuccess">登录成功！</string>
 </resources>

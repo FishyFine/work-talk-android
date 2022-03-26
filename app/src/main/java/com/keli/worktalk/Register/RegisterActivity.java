@@ -43,8 +43,8 @@ public class RegisterActivity extends AppCompatActivity {
                 }
             }
         };
-        final EditText usernameEdit = findViewById(R.id.register_username_edit);
-        final EditText passwordEdit = findViewById(R.id.register_password_edit);
+        final EditText usernameEdit = findViewById(R.id.login_username_edit);
+        final EditText passwordEdit = findViewById(R.id.login_password_edit);
         final EditText passwordAgainEdit = findViewById(R.id.register_passwordAgain_edit);
         Button registerBtn = findViewById(R.id.register_register_btn);
         registerBtn.setOnClickListener(new View.OnClickListener() {
